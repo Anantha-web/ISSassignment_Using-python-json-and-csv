@@ -1,0 +1,7 @@
+email,profession,travel,symptomatic,chronic,status
+abc_1@gmail.com,Healthcare,No,No,Yes,Inactive
+abc_2@gmail.com,Healthcare,Yes,Yes,Yes,Active
+abc_11@gmail.com,Police,No,No,Yes,Inactive
+abc_18@gmail.com,IT,No,No,Yes,Active
+abc_19@gmail.com,IT,Yes,No,Yes,Active
+xyz@gmail.com,Police,Yes,Yes,Yes,Active

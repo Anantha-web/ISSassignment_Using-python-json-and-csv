@@ -1,0 +1,7 @@
+Email,Profession,Travel,Symptomatic,Chronic,Results
+abc_1@gmail.com,Healthcare,No,No,Yes,No Access
+abc_2@gmail.com,Healthcare,Yes,Yes,Yes,High Risk
+abc_11@gmail.com,Police,No,No,Yes,No Access
+abc_18@gmail.com,IT,No,No,Yes,Low Risk
+abc_19@gmail.com,IT,Yes,No,Yes,Moderate Risk
+xyz@gmail.com,Police,Yes,Yes,Yes,No Access
